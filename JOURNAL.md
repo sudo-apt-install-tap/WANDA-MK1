@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 8h | 4 |
+| Week 5 | Tier 1 | 8.5h | 4 |
 
 ## Contents
 
@@ -99,7 +99,7 @@ Except that everything went smoothly, and yeah here's some pics!
 
 ### 2026-11-05: # Got some firmware and made the repo!
 
-**1h**
+**1.5h**
 
 # Got some firmware and made the repo!
 
