@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$1.50,$1.50,https://jlcpcb.com/
 ESP32 c3 super mini,1,Self Sourced,$0.00,$0.00,https://NoSource.com
+NRF24,2,Self Sourced,$0.00,$0.00,https://me.co
 Estimated total shipping,1,,,$0.00,
