@@ -51,6 +51,8 @@ The enclosure was designed around the PCB's geometry. Exporting the PCB model fr
 
 Everything went pretty smoothly, which is honestly a nice change.
 
+[OnShape Link](https://cad.onshape.com/documents/e09c2902d5946ece04b205df/w/08b01108679b6f08d3bf62ca/e/71ad0549132fda6205ccff05)
+
 ## Images
 
 <div align="center">
