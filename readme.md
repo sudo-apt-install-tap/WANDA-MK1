@@ -3,6 +3,7 @@
 <h1>
   <b>WANDA mk1</b>
 </h1>
+<img width="200" alt="image-removebg-preview(2)" src="https://github.com/user-attachments/assets/8bb5f7ce-275f-4c79-ad7b-fca950033438" />
 
 <h3><b>Wireless Anti Network Device Adaptive</b></h3>
 
