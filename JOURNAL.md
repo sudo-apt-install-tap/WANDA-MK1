@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 8.5h | 4 |
+| Week 5 | Tier 1 | 9h | 4 |
 
 ## Contents
 
@@ -63,7 +63,7 @@ Anyways heres a few more pics!
 
 ### 2026-11-05: # Made the PCB
 
-**2.5h**
+**3h**
 
 # Made the PCB
 
